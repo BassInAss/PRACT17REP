@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SGu6qfK9IXv4q7VltXTK8ZZoKtfEqRW2pMgbdPbynkg1GxkoiUbBAQU/Diw5qjgCFha+WwKpK0WQQBYXF84PHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\307-05\\Desktop\\pract17Kon\\pract17Kon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\307-05\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\307-05\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\307-05\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\307-05\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\307-05\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\307-05\\.nuget\\packages\\selenium.webdriver.chromedriver\\99.0.4844.5100\\selenium.webdriver.chromedriver.99.0.4844.5100.nupkg.sha512"
+  ],
+  "logs": []
+}
